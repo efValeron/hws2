@@ -2,6 +2,7 @@
 
 .App {
     --header_height: 60px;
+    margin-top: var(--header_height);
 }
 
 .hw {

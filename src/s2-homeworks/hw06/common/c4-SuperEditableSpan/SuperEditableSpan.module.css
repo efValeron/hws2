@@ -1,10 +1,27 @@
 .spanBlock {
+  display: flex;
+  gap: 2rem;
 }
 
 .span {
+  color: #0080FF;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 
 .input {
+  border-radius: 0.3125rem;
+  border: 1px solid #D1D1D1;
+  color: #000;
+  font-family: Montserrat, sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  outline: none;
+  padding: 0.5rem 1rem;
 }
 
 .pen {
